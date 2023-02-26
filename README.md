@@ -1,2 +1,2 @@
 # local-port-scanner
-a powershell script that scans the machine for open ports
+a simple powershell script that scans the machine for open ports
